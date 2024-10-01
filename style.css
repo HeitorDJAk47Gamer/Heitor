@@ -19,6 +19,7 @@ h1 {
 }
 
 img.hh {
+	border-radius: 50%;
 	position: relative;
 	width: 20%;
 	height: 20%;
